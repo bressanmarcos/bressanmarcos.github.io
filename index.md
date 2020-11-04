@@ -7,7 +7,7 @@ In 2020, I officially graduated in Electrical Engineering, obtaining a diploma v
 
 In France, where I experienced two internships in different companies, my professional project was mainly guided through the fields of Telecommunication Systems, Computer Networks and Power Systems, reasons why I became especially attracted to Machine Learning, Smart Grids, Internet of Things and System Engineering.
 
-This website is still under development, but you can also check out my profiles on [Linkedin](linkedin.com/in/bressanmarcos) and [Github](github.com/bressanmarcos)!
+This website is still under development, but you can also check out my profiles on [Linkedin](https://linkedin.com/in/bressanmarcos) and [Github](https://github.com/bressanmarcos)!
 
 
 ## Projects
