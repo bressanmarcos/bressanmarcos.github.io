@@ -12,4 +12,4 @@ This website is still under development, but you can also check out my profiles 
 
 ## Projects
 - [cimrdf.py](pages/cimrdf.py) - An open source tool to handle CIM RDF (IEC 61970-501) documents in Python.
-- [CountingCandles](pages/countingcandles.py) - A software to count candles sequence of same color for IQOption and to detect trends.
+- [CountingCandles](pages/countingcandles) - A software to count candles sequence of same color for IQOption and to detect trends.
