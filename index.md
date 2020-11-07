@@ -13,3 +13,4 @@ This website is still under development, but you can also check out my profiles 
 ## Projects
 - [cimrdf.py](pages/cimrdf.py) - An open source tool to handle CIM RDF (IEC 61970-501) documents in Python.
 - [CountingCandles](pages/countingcandles) - A software to count candles sequence of same color for IQOption and to detect trends.
+- [Plagiarism Detector](https://github.com/bressanmarcos/PlagiarismDetector/) - Use of Machine Learning to label texts either as plagiarized or not. The project uses K-nearest neighbors as ML algorithm.
