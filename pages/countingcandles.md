@@ -8,4 +8,4 @@ A special feature is the ability to advance the alarm for a few seconds when the
 
 It has been adapted to read information obtained by connecting to Web Sockets from IQOption.
 
-It was written in Python and was tested on Windows and Linux. It was originally written in Spanish.
+It was written in Python and was tested on Windows and Linux. It was originally written in Spanish to meet client requirements.
