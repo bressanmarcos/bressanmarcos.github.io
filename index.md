@@ -14,3 +14,4 @@ This website is still under development, but you can also check out my profiles 
 - [cimrdf.py](https://github.com/bressanmarcos/cimrdf.py) - An open source tool to handle CIM RDF (IEC 61970-501) documents in Python.
 - [CountingCandles](pages/countingcandles) - A software to count candles sequence of same color for IQOption and to detect trends.
 - [Multi-agent Automatic Restoration System (MARS)](https://github.com/bressanmarcos/smad-cim) - A Multi-Agent System (MAS) built with [PADE](https://github.com/grei-ufc/pade) for distribution systems automation within Smart Grids environments.
+- [Plagiarism Detector](https://github.com/bressanmarcos/PlagiarismDetector/) - Use of Machine Learning to classify texts as several levels of plagiarism. The project uses the K-nearest neighbors algorithm and is written to be executed in an AWS Sagemaker notebook.
