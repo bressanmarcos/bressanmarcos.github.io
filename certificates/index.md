@@ -32,6 +32,8 @@
 
 [Python GUI Development with Tkinter](./Certificado%20de%20LinkedIn%20Learning_Python%20Gui%20Development%20with%20Tkinter.pdf)
 
+[Scala Essential Training for Data Science](./CertificateOfCompletion_Scala%20Essential%20Training%20for%20Data%20Science.pdf)
+
 [Securing Containers and Kubernetes Ecosystem](./CertificateOfCompletion_Securing%20Containers%20and%20Kubernetes%20Ecosystem.pdf)
 
 [Strategic Thinking (1)](./CertificateOfCompletion_Strategic%20Thinking.pdf)
