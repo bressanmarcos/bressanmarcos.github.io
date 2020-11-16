@@ -26,6 +26,8 @@
 
 [Learning R](./CertificateOfCompletion_Learning%20R.pdf)
 
+[Learning Terraform](./CertificateOfCompletion_Learning%20Terraform.pdf)
+
 [Microservices Design Patterns](./CertificateOfCompletion_Microservices%20Design%20Patterns.pdf)
 
 [Microservices Foundations](./CertificateOfCompletion_Microservices%20Foundations.pdf)
