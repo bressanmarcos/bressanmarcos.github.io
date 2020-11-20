@@ -1,47 +1,54 @@
 # List of Certificates
 
-[Advanced Linux The Linux Kernel](./CertificateOfCompletion_Advanced%20Linux%20The%20Linux%20Kernel.pdf)
+Hello, visitor!
 
-[Become a Docker Administrator](./CertificateOfCompletion_Become%20a%20Docker%20Administrator.pdf)
+Below you will find a non-exhaustive list of some of my certifications. Of course, these certificates do not define the degree of knowledge or experience I have with each of the tools, but it shows a bit of my commitment to keeping myself updated and active, always trying to learn new things every day!
+Soon I intend to categorize them and describe a little of what I was able to learn in each minute of learning.
 
-[Docker Essential Training 1 Installation and Configuration](./CertificateOfCompletion_Docker%20Essential%20Training%201%20Installation%20and%20Configuration.pdf)
+<br />
 
-[Docker Essential Training 2 Orchestration](./CertificateOfCompletion_Docker%20Essential%20Training%202%20Orchestration.pdf)
+- [Advanced Linux The Linux Kernel](./CertificateOfCompletion_Advanced%20Linux%20The%20Linux%20Kernel.pdf)
 
-[Docker Essential Training 3 Image Creation Management and Registry](./CertificateOfCompletion_Docker%20Essential%20Training%203%20Image%20Creation%20Management%20and%20Registry.pdf)
+- [Become a Docker Administrator](./CertificateOfCompletion_Become%20a%20Docker%20Administrator.pdf)
 
-[Docker Essential Training 4 Storage and Volumes](./CertificateOfCompletion_Docker%20Essential%20Training%204%20Storage%20and%20Volumes.pdf)
+- [Docker Essential Training 1 Installation and Configuration](./CertificateOfCompletion_Docker%20Essential%20Training%201%20Installation%20and%20Configuration.pdf)
 
-[Docker Essential Training 5 Networking](./CertificateOfCompletion_Docker%20Essential%20Training%205%20Networking.pdf)
+- [Docker Essential Training 2 Orchestration](./CertificateOfCompletion_Docker%20Essential%20Training%202%20Orchestration.pdf)
 
-[Docker Essential Training 6 Security](./CertificateOfCompletion_Docker%20Essential%20Training%206%20Security.pdf)
+- [Docker Essential Training 3 Image Creation Management and Registry](./CertificateOfCompletion_Docker%20Essential%20Training%203%20Image%20Creation%20Management%20and%20Registry.pdf)
 
-[Flask Essential Training](./CertificateOfCompletion_Flask%20Essential%20Training.pdf)
+- [Docker Essential Training 4 Storage and Volumes](./CertificateOfCompletion_Docker%20Essential%20Training%204%20Storage%20and%20Volumes.pdf)
 
-[Learning Ansible](./CertificateOfCompletion_Learning%20Ansible.pdf)
+- [Docker Essential Training 5 Networking](./CertificateOfCompletion_Docker%20Essential%20Training%205%20Networking.pdf)
 
-[Learning GraphQL](./CertificateOfCompletion_Learning%20GraphQL.pdf)
+- [Docker Essential Training 6 Security](./CertificateOfCompletion_Docker%20Essential%20Training%206%20Security.pdf)
 
-[Learning Hadoop](./CertificateOfCompletion_Learning%20Hadoop.pdf)
+- [Flask Essential Training](./CertificateOfCompletion_Flask%20Essential%20Training.pdf)
 
-[Learning Kubernetes](./CertificateOfCompletion_Learning%20Kubernetes.pdf)
+- [Learning Ansible](./CertificateOfCompletion_Learning%20Ansible.pdf)
 
-[Learning R](./CertificateOfCompletion_Learning%20R.pdf)
+- [Learning GraphQL](./CertificateOfCompletion_Learning%20GraphQL.pdf)
 
-[Learning Terraform](./CertificateOfCompletion_Learning%20Terraform.pdf)
+- [Learning Hadoop](./CertificateOfCompletion_Learning%20Hadoop.pdf)
 
-[Microservices Design Patterns](./CertificateOfCompletion_Microservices%20Design%20Patterns.pdf)
+- [Learning Kubernetes](./CertificateOfCompletion_Learning%20Kubernetes.pdf)
 
-[Microservices Foundations](./CertificateOfCompletion_Microservices%20Foundations.pdf)
+- [Learning R](./CertificateOfCompletion_Learning%20R.pdf)
 
-[Python GUI Development with Tkinter](./Certificado%20de%20LinkedIn%20Learning_Python%20Gui%20Development%20with%20Tkinter.pdf)
+- [Learning Terraform](./CertificateOfCompletion_Learning%20Terraform.pdf)
 
-[Scala Essential Training for Data Science](./CertificateOfCompletion_Scala%20Essential%20Training%20for%20Data%20Science.pdf)
+- [Microservices Design Patterns](./CertificateOfCompletion_Microservices%20Design%20Patterns.pdf)
 
-[Securing Containers and Kubernetes Ecosystem](./CertificateOfCompletion_Securing%20Containers%20and%20Kubernetes%20Ecosystem.pdf)
+- [Microservices Foundations](./CertificateOfCompletion_Microservices%20Foundations.pdf)
 
-[Strategic Thinking (1)](./CertificateOfCompletion_Strategic%20Thinking.pdf)
+- [Python GUI Development with Tkinter](./Certificado%20de%20LinkedIn%20Learning_Python%20Gui%20Development%20with%20Tkinter.pdf)
 
-[Strategic Thinking (2)](./CertificateOfCompletion_Strategic%20Thinking_.pdf)
+- [Scala Essential Training for Data Science](./CertificateOfCompletion_Scala%20Essential%20Training%20for%20Data%20Science.pdf)
 
-[PHP Facebook Messenger Bot](./PHP%20Facebook%20Messenger%20Bot.pdf)
+- [Securing Containers and Kubernetes Ecosystem](./CertificateOfCompletion_Securing%20Containers%20and%20Kubernetes%20Ecosystem.pdf)
+
+- [Strategic Thinking (1)](./CertificateOfCompletion_Strategic%20Thinking.pdf)
+
+- [Strategic Thinking (2)](./CertificateOfCompletion_Strategic%20Thinking_.pdf)
+
+- [PHP Facebook Messenger Bot](./PHP%20Facebook%20Messenger%20Bot.pdf)
