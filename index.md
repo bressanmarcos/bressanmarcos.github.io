@@ -14,13 +14,13 @@ ___
 
 Below you will find some of my projects ordered by theme/category.
 Please, be aware that this page is still in development and many projects are not listed here. You can find more of them on my [Github](https://github.com/bressanmarcos).
-### Smart Grids, Distributed Computing, Multi-Agent Systems
 
+### Smart Grids, Distributed Computing, Multi-Agent Systems
 - [PADE - Python Agent DEvelopment framework](https://github.com/grei-ufc/pade) (Contributor) - A FIPA-compliant platform for creation, execution and management of agents for Multi-Agent Systems. (My personal fork with some pending features to be PR'ed is available [here](https://github.com/bressanmarcos/pade))
 - [Multi-agent Automatic Restoration System (MARS)](https://github.com/bressanmarcos/smad-cim) - A Multi-Agent System (MAS) built with [PADE](https://github.com/grei-ufc/pade) for distribution systems automation within Smart Grids environments. Link for article: (soon!)
 - [cimrdf.py](https://github.com/bressanmarcos/cimrdf.py) - An open source tool to handle CIM RDF (IEC 61970-501) documents in Python.
-### Machine Learning
 
+### Machine Learning
 - [Plagiarism Detector](https://github.com/bressanmarcos/PlagiarismDetector/) - Use of Machine Learning to classify texts as several levels of plagiarism. The project uses the K-nearest neighbors algorithm and is written to be executed in an AWS Sagemaker notebook.
 - [Population Clusterization](https://github.com/bressanmarcos/PopulationClusterization/) - Use of Machine Learning in AWS Sagemaker to segment american counties into distinct groups based on data from US Census. Principal Component Analysis (PCA) and K-means are some of the unsupervised machine learning concepts applied in this project.
 
