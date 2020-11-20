@@ -35,6 +35,5 @@ Please, be aware that this page is still in development and many projects are no
 
 ---
 
-Hit Counter:
-<script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=dbd1b9f384311c165b4a38ff4269cac5e0bf7452'></script>
+<a href='http://www.freevisitorcounters.com'>Counter</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=dbd1b9f384311c165b4a38ff4269cac5e0bf7452'></script>
 <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/766805/t/1"></script>
