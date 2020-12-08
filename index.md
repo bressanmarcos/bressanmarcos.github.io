@@ -29,6 +29,7 @@ Please, be aware that this page is still in development and many projects are no
 
 ### Freelance (private source code)
 - [System for managing event registrants](pages/st) - Web-based system for managing enrollments in private events.
+- [Anemometric Station Dashboard](https://estacionanemometricaloyola.000webhostapp.com/#/) - Web-based dashboard for monitoring an anemometric station installed in San Cristóbal, Dominican Republic. 
 - [CountingCandles](pages/countingcandles) - A software to count candles sequence of same color for IQOption and to detect trends.
 
 ---
