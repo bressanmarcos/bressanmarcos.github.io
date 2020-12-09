@@ -27,7 +27,7 @@ Please, be aware that this page is still in development and many projects are no
 - [Plagiarism Detector](https://github.com/bressanmarcos/PlagiarismDetector/) - Use of Machine Learning to classify texts as several levels of plagiarism. The project uses the K-nearest neighbors algorithm and is written to be executed in an AWS Sagemaker notebook.
 - [Population Clusterization](https://github.com/bressanmarcos/PopulationClusterization/) - Use of Machine Learning in AWS Sagemaker to segment american counties into distinct groups based on data from US Census. Principal Component Analysis (PCA) and K-means are some of the unsupervised machine learning concepts applied in this project.
 
-### Freelance (private source code)
+### Private Projects
 - [System for managing event registrants](pages/st) - Web-based system for managing enrollments in private events.
 - [Anemometric Station Dashboard](https://estacionanemometricaloyola.000webhostapp.com/#/) - Web-based dashboard for monitoring an anemometric station installed in San Cristóbal, Dominican Republic. 
 - [CountingCandles](pages/countingcandles) - A software to count candles sequence of same color for IQOption and to detect trends.
