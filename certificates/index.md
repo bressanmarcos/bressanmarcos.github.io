@@ -23,6 +23,8 @@ Soon I intend to categorize them and describe a little of what I was able to lea
 
 - [Docker Essential Training 6 Security](./CertificateOfCompletion_Docker%20Essential%20Training%206%20Security.pdf)
 
+- [Faster Pandas](./CertificateOfCompletion_Faster%20pandas.pdf)
+
 - [Flask Essential Training](./CertificateOfCompletion_Flask%20Essential%20Training.pdf)
 
 - [Learning Ansible](./CertificateOfCompletion_Learning%20Ansible.pdf)
