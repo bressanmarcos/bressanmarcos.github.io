@@ -30,6 +30,8 @@ Soon I intend to categorize them and describe a little of what I was able to lea
 
 - [Flask Essential Training](./CertificateOfCompletion_Flask%20Essential%20Training.pdf)
 
+- [Learning Amazon Web Services (AWS) for Developers](./CertificateOfCompletion_Learning%20Amazon%20Web%20Services%20AWS%20for%20Developers.pdf)
+
 - [Learning Ansible](./CertificateOfCompletion_Learning%20Ansible.pdf)
 
 - [Learning GraphQL](./CertificateOfCompletion_Learning%20GraphQL.pdf)
