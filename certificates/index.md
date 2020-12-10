@@ -46,14 +46,14 @@ Soon I intend to categorize them and describe a little of what I was able to lea
 
 - [Python GUI Development with Tkinter](./Certificado%20de%20LinkedIn%20Learning_Python%20Gui%20Development%20with%20Tkinter.pdf)
 
-- [Power BI Data Methods (Linkedin)](./CertificateOfCompletion_Power%20BI%20Data%20Methods.pdf)
+- [Power BI Data Methods (National Association of State Boards of Accountancy)](./CertificateOfCompletion_Power%20BI%20Data%20Methods%20_.pdf)
 
-- [Power BI Data Methods (NASBA)](./CertificateOfCompletion_Power%20BI%20Data%20Methods%20_.pdf)
+- [Power BI Data Methods (Linkedin)](./CertificateOfCompletion_Power%20BI%20Data%20Methods.pdf)
 
 - [Scala Essential Training for Data Science](./CertificateOfCompletion_Scala%20Essential%20Training%20for%20Data%20Science.pdf)
 
-- [Strategic Thinking (1)](./CertificateOfCompletion_Strategic%20Thinking.pdf)
+- [Strategic Thinking (Project Management Institute)](./CertificateOfCompletion_Strategic%20Thinking.pdf)
 
-- [Strategic Thinking (2)](./CertificateOfCompletion_Strategic%20Thinking%20_.pdf)
+- [Strategic Thinking (Linkedin)](./CertificateOfCompletion_Strategic%20Thinking%20_.pdf)
 
 - [PHP Facebook Messenger Bot](./PHP%20Facebook%20Messenger%20Bot.pdf)
