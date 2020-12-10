@@ -55,6 +55,6 @@ Soon I intend to categorize them and describe a little of what I was able to lea
 
 - [Strategic Thinking (1)](./CertificateOfCompletion_Strategic%20Thinking.pdf)
 
-- [Strategic Thinking (2)](./CertificateOfCompletion_Strategic%20Thinking_.pdf)
+- [Strategic Thinking (2)](./CertificateOfCompletion_Strategic%20Thinking%20_.pdf)
 
 - [PHP Facebook Messenger Bot](./PHP%20Facebook%20Messenger%20Bot.pdf)
