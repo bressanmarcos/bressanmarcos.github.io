@@ -38,6 +38,8 @@ Soon I intend to categorize them and describe a little of what I was able to lea
 
 - [Learning Hadoop](./CertificateOfCompletion_Learning%20Hadoop.pdf)
 
+- [Learning NoSQL Databases](./CertificateOfCompletion_Learning%20NoSQL%20Databases.pdf)
+
 - [Learning R](./CertificateOfCompletion_Learning%20R.pdf)
 
 - [Learning Terraform](./CertificateOfCompletion_Learning%20Terraform.pdf)
