@@ -44,6 +44,7 @@ Soon I intend to categorize them and describe a little of what I was able to lea
 
 - [Learning R](./CertificateOfCompletion_Learning%20R.pdf)
 
+
 - [Learning Terraform](./CertificateOfCompletion_Learning%20Terraform.pdf)
 
 - [Managing DNS Essential Training](./CertificateOfCompletion_Managing%20DNS%20Essential%20Training.pdf)
@@ -59,6 +60,8 @@ Soon I intend to categorize them and describe a little of what I was able to lea
     - [Linkedin](./CertificateOfCompletion_Power%20BI%20Data%20Methods.pdf)
 
 - [Scala Essential Training for Data Science](./CertificateOfCompletion_Scala%20Essential%20Training%20for%20Data%20Science.pdf)
+
+- [SQL Data Reporting and Analysis](./CertificateOfCompletion_SQL%20Data%20Reporting%20and%20Analysis.pdf)
 
 - [SQL Tips, Tricks & Techniques](./CertificateOfCompletion_SQL%20Tips%20Tricks%20%20Techniques.pdf)
 
