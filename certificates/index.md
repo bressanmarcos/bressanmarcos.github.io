@@ -28,6 +28,8 @@ Soon I intend to categorize them and describe a little of what I was able to lea
 
 - [Cloud NoSQL for SQL Professionals](./CertificateOfCompletion_Cloud%20NoSQL%20for%20SQL%20Professionals.pdf)
 
+- [Data Science Foundations: Data Engineering](./CertificateOfCompletion_Data%20Science%20Foundations%20Data%20Engineering.pdf)
+
 - [Faster Pandas](./CertificateOfCompletion_Faster%20pandas.pdf)
 
 - [Flask Essential Training](./CertificateOfCompletion_Flask%20Essential%20Training.pdf)
