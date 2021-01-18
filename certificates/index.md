@@ -26,6 +26,8 @@ Soon I intend to categorize them and describe a little of what I was able to lea
 
     - [Securing Containers and Kubernetes Ecosystem](./CertificateOfCompletion_Securing%20Containers%20and%20Kubernetes%20Ecosystem.pdf)
 
+- [Cloud NoSQL for SQL Professionals](./CertificateOfCompletion_Cloud%20NoSQL%20for%20SQL%20Professionals.pdf)
+
 - [Faster Pandas](./CertificateOfCompletion_Faster%20pandas.pdf)
 
 - [Flask Essential Training](./CertificateOfCompletion_Flask%20Essential%20Training.pdf)
@@ -61,7 +63,7 @@ Soon I intend to categorize them and describe a little of what I was able to lea
 
 - [Scala Essential Training for Data Science](./CertificateOfCompletion_Scala%20Essential%20Training%20for%20Data%20Science.pdf)
 
-- [SQL Data Reporting and Analysis](./CertificateOfCompletion_SQL%20Data%20Reporting%20and%20Analysis.pdf)
+- [SQL: Data Reporting and Analysis](./CertificateOfCompletion_SQL%20Data%20Reporting%20and%20Analysis.pdf)
 
 - [SQL Tips, Tricks & Techniques](./CertificateOfCompletion_SQL%20Tips%20Tricks%20%20Techniques.pdf)
 
