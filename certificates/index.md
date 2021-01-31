@@ -64,7 +64,7 @@ Soon I intend to categorize them and describe a little of what I was able to lea
 
 - [Learning Terraform](./CertificateOfCompletion_Learning%20Terraform.pdf)
 
-- [Linux: Multitasking at the Command Line](./CertificateOfCompletion%20Linux Multitasking%20at%20the%20command%20line.pdf)
+- [Linux: Multitasking at the Command Line](./CertificateOfCompletion%20Linux%20Multitasking%20at%20the%20command%20line.pdf)
 
 - [Managing DNS Essential Training](./CertificateOfCompletion_Managing%20DNS%20Essential%20Training.pdf)
 
