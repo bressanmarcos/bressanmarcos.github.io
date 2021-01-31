@@ -19,6 +19,7 @@ Please, be aware that this page is still in development and many projects are no
 - [PADE - Python Agent DEvelopment framework](https://github.com/grei-ufc/pade) (Contributor) - A FIPA-compliant platform for creation, execution and management of agents for Multi-Agent Systems. 
   - Personal fork with some pending features to be futurely added to the original project available [here](https://github.com/bressanmarcos/pade)
 - [PADE-FMI](https://github.com/bressanmarcos/pade-fmi) - An extension to provide PADE with [FMI](https://fmi-standard.org)-compliance (Functional Mock-up Interface) for co-simulation environments.
+- [PADE-PLUS](https://github.com/bressanmarcos/pade-plus) - An extension to provide PADE with additional features such as cleaner code and sync-like async activities.
 - [Multi-agent Automatic Restoration System (MARS)](https://github.com/bressanmarcos/smad-cim) - A Multi-Agent System (MAS) built with [PADE](https://github.com/grei-ufc/pade) for automation of distribution systems within the Smart Grid framework. 
   - Link for article: (soon!)
 - [cimrdf.py](https://github.com/bressanmarcos/cimrdf.py) - An open source tool to handle CIM RDF (IEC 61970-501) documents in Python.
