@@ -86,6 +86,8 @@ Soon I intend to categorize them and describe a little of what I was able to lea
 
 - [Scala Essential Training for Data Science](./CertificateOfCompletion_Scala%20Essential%20Training%20for%20Data%20Science.pdf)
 
+- [SSL Certificates for Web Developers](./CertificateOfCompletion_SSL%20Certificates%20for%20Web%20Developers.pdf)
+
 - Strategic Thinking (Double certificate):
     - [Project Management Institute](./CertificateOfCompletion_Strategic%20Thinking.pdf)
     - [Linkedin](./CertificateOfCompletion_Strategic%20Thinking%20_.pdf)
