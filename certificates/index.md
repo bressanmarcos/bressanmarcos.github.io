@@ -8,7 +8,7 @@ Soon I intend to categorize them and describe a little of what I was able to lea
 
 - [Advanced Linux The Linux Kernel](./CertificateOfCompletion_Advanced%20Linux%20The%20Linux%20Kernel.pdf)
 
-- [Become a Data Engineer Mastering the Concepts (Learning Path)](./CertificateOfCompletion_Become%20a%20Data%20Engineer%20Mastering%20the%20Concepts.pdf):
+- [Become a Data Engineer Mastering the Concepts](./CertificateOfCompletion_Become%20a%20Data%20Engineer%20Mastering%20the%20Concepts.pdf) (Learning Path):
 
     - [Advanced NoSQL for Data Science](./CertificateOfCompletion_Advanced%20NoSQL%20for%20Data%20Science.pdf)
 
@@ -30,7 +30,7 @@ Soon I intend to categorize them and describe a little of what I was able to lea
 
     - [SQL Tips, Tricks & Techniques](./CertificateOfCompletion_SQL%20Tips%20Tricks%20%20Techniques.pdf)
 
-- [Become a Docker Administrator (Learning Path)](./CertificateOfCompletion_Become%20a%20Docker%20Administrator.pdf):
+- [Become a Docker Administrator](./CertificateOfCompletion_Become%20a%20Docker%20Administrator.pdf) (Learning Path):
 
     - [Docker Essential Training 1 Installation and Configuration](./CertificateOfCompletion_Docker%20Essential%20Training%201%20Installation%20and%20Configuration.pdf)
 
@@ -74,15 +74,23 @@ Soon I intend to categorize them and describe a little of what I was able to lea
 
 - [Microservices Foundations](./CertificateOfCompletion_Microservices%20Foundations.pdf)
 
+- [Prepare for the AWS Certified Cloud Practitioner Exam](./CertificateOfCompletion_Prepare%20for%20the%20AWS%20Certified%20Cloud%20Practitioner%20Exam.pdf) (Learning Path):
+    - [Introduction to AWS for NonEngineers 1 Cloud Concepts](./CertificateOfCompletion_Introduction%20to%20AWS%20for%20NonEngineers%201%20Cloud%20Concepts.pdf)
+    - [Introduction to AWS for NonEngineers 2 Security](./CertificateOfCompletion_Introduction%20to%20AWS%20for%20NonEngineers%202%20Security.pdf)
+    - [Introduction to AWS for NonEngineers 3 Core Services](./CertificateOfCompletion_Introduction%20to%20AWS%20for%20NonEngineers%203%20Core%20Services.pdf)
+    - [Introduction to AWS for NonEngineers 4 Billing and Pricing](./CertificateOfCompletion_Introduction%20to%20AWS%20for%20NonEngineers%204%20Billing%20and%20Pricing.pdf)
+
 - [Python GUI Development with Tkinter](./CertificateOfCompletion_Python%20GUI%20Development%20with%20Tkinter.pdf)
 
-- Power BI Data Methods:
+- Power BI Data Methods (Double certificate):
     - [National Association of State Boards of Accountancy](./CertificateOfCompletion_Power%20BI%20Data%20Methods%20_.pdf)
     - [Linkedin](./CertificateOfCompletion_Power%20BI%20Data%20Methods.pdf)
 
 - [Scala Essential Training for Data Science](./CertificateOfCompletion_Scala%20Essential%20Training%20for%20Data%20Science.pdf)
 
-- Strategic Thinking:
+- [SSL Certificates for Web Developers](./CertificateOfCompletion_SSL%20Certificates%20for%20Web%20Developers.pdf)
+
+- Strategic Thinking (Double certificate):
     - [Project Management Institute](./CertificateOfCompletion_Strategic%20Thinking.pdf)
     - [Linkedin](./CertificateOfCompletion_Strategic%20Thinking%20_.pdf)
 
