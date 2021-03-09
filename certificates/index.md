@@ -48,6 +48,8 @@ Soon I intend to categorize them and describe a little of what I was able to lea
 
     - [Securing Containers and Kubernetes Ecosystem](./CertificateOfCompletion_Securing%20Containers%20and%20Kubernetes%20Ecosystem.pdf)
 
+- [DevOps Foundations: Continuous Delivery/ Continuous Integration](./DevOps%20Foundation%20:%20Continuous%20Delivery%20Continuous Integration.pdf)
+
 - [Faster Pandas](./CertificateOfCompletion_Faster%20pandas.pdf)
 
 - [Flask Essential Training](./CertificateOfCompletion_Flask%20Essential%20Training.pdf)
