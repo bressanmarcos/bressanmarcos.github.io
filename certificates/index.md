@@ -80,6 +80,10 @@ Soon I intend to categorize them and describe a little of what I was able to lea
     - [Introduction to AWS for NonEngineers 3 Core Services](./CertificateOfCompletion_Introduction%20to%20AWS%20for%20NonEngineers%203%20Core%20Services.pdf)
     - [Introduction to AWS for NonEngineers 4 Billing and Pricing](./CertificateOfCompletion_Introduction%20to%20AWS%20for%20NonEngineers%204%20Billing%20and%20Pricing.pdf)
 
+- (In progress) Prepare for the AWS Certified Solutions Architect - Associate Exam (SAA-C02) (Learning Path):
+    - [Exam Tips: AWS Certified Solutions Architect - Associate (SAA-C02)](./Exam%20Tips:%20AWS%20Certified%20Solutions%20Architect%20-%20Associate%20(SAA-C02).pdf)
+    - [AWS Certified Solutions Architect - Associate (SAA-C02): 1 Cloud Services Overview](./AWS%20Certified%20Solutions%20Architect%20-%20Associate%20(SAA-C02):%201%20Cloud%20Services%20Overview.pdf)
+
 - [Python GUI Development with Tkinter](./CertificateOfCompletion_Python%20GUI%20Development%20with%20Tkinter.pdf)
 
 - Power BI Data Methods (Double certificate):
