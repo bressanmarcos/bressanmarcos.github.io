@@ -42,6 +42,8 @@ Soon I intend to categorize them and describe a little of what I was able to lea
 
 - [Learning Ansible](./Learning%20Ansible.pdf)
 
+- [Learning Docker](./Learning%20Docker.pdf)
+
 - [Learning GraphQL](./Learning%20GraphQL.pdf)
 
 - [Learning Hadoop](./Learning%20Hadoop.pdf)
