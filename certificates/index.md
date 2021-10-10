@@ -9,43 +9,25 @@ Soon I intend to categorize them and describe a little of what I was able to lea
 - [Advanced Linux The Linux Kernel](./Advanced%20Linux%20The%20Linux%20Kernel.pdf)
 
 - [Become a Data Engineer Mastering the Concepts](./Become%20a%20Data%20Engineer%20Mastering%20the%20Concepts.pdf) (Learning Path):
-
     - [Advanced NoSQL for Data Science](./Advanced%20NoSQL%20for%20Data%20Science.pdf)
-
     - [Apache Spark Essential Training: Big Data Engineering](./Apache%20Spark%20Essential%20Training%20Big%20Data%20Engineering.pdf)
-
     - [Architecting Big Data Applications: Batch Mode Application Engineering](./Architecting%20Big%20Data%20Applications%20Batch%20Mode%20Application%20Engineering.pdf)    
-
     - [Architecting Big Data Applications: RealTime Application Engineering](./Architecting%20Big%20Data%20Applications%20RealTime%20Application%20Engineering.pdf)
-
     - [Cloud NoSQL for SQL Professionals](./Cloud%20NoSQL%20for%20SQL%20Professionals.pdf)
-
     - [Data Science Foundations: Data Engineering](./Data%20Science%20Foundations%20Data%20Engineering.pdf)
-
     - [HBase Essential Training](./HBase%20Essential%20Training.pdf)
-
     - [Learning NoSQL Databases](./Learning%20NoSQL%20Databases.pdf)
-
     - [SQL: Data Reporting and Analysis](./SQL%20Data%20Reporting%20and%20Analysis.pdf)
-
     - [SQL Tips, Tricks & Techniques](./SQL%20Tips%20Tricks%20%20Techniques.pdf)
 
 - [Become a Docker Administrator](./Become%20a%20Docker%20Administrator.pdf) (Learning Path):
-
     - [Docker Essential Training 1 Installation and Configuration](./Docker%20Essential%20Training%201%20Installation%20and%20Configuration.pdf)
-
     - [Docker Essential Training 2 Orchestration](./Docker%20Essential%20Training%202%20Orchestration.pdf)
-
     - [Docker Essential Training 3 Image Creation Management and Registry](./Docker%20Essential%20Training%203%20Image%20Creation%20Management%20and%20Registry.pdf)
-
     - [Docker Essential Training 4 Storage and Volumes](./Docker%20Essential%20Training%204%20Storage%20and%20Volumes.pdf)
-
     - [Docker Essential Training 5 Networking](./Docker%20Essential%20Training%205%20Networking.pdf)
-
     - [Docker Essential Training 6 Security](./Docker%20Essential%20Training%206%20Security.pdf)
-
     - [Learning Kubernetes](./Learning%20Kubernetes.pdf)
-
     - [Securing Containers and Kubernetes Ecosystem](./Securing%20Containers%20and%20Kubernetes%20Ecosystem.pdf)
 
 - [DevOps Foundations: Continuous Delivery/ Continuous Integration](./DevOps%20Foundations:%20Continuous%20Delivery%20Continuous%20Integration.pdf)
@@ -53,6 +35,8 @@ Soon I intend to categorize them and describe a little of what I was able to lea
 - [Faster Pandas](./Faster%20pandas.pdf)
 
 - [Flask Essential Training](./Flask%20Essential%20Training.pdf)
+
+- [Kubernetes: Native Tools](./Kubernetes%20Native%20Tools.pdf)
 
 - [Learning Amazon Web Services (AWS) for Developers](./Learning%20Amazon%20Web%20Services%20AWS%20for%20Developers.pdf)
 
