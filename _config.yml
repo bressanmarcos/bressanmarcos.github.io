@@ -1,10 +1,12 @@
 title: Marcos Bressan # your name (or website title) here
 logo: "/images/photo.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Electrical, Electronics and Computer Engineer
-  <br><br>
+  Data Engineer & Cloud Architect at <a href="https://www.linkedin.com/company/big-data-brasil-">Big Data</a> 
+  <br>
+  Graduated in Electrical, Electronics and Computer Engineering
+  <br>
   Passionate about Machine Learning and Distributed Computing
-  <br><br>
+  <br>
   <a href="https://www.linkedin.com/in/bressanmarcos/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
