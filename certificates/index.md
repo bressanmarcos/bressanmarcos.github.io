@@ -38,6 +38,8 @@ Soon I intend to categorize them and describe a little of what I was able to lea
 
 - [Kubernetes: Native Tools](./Kubernetes%20Native%20Tools.pdf)
 
+- [Kubernetes Microservices](./Kubernetes%20Microservices.pdf)
+
 - [Learning Amazon Web Services (AWS) for Developers](./Learning%20Amazon%20Web%20Services%20AWS%20for%20Developers.pdf)
 
 - [Learning Ansible](./Learning%20Ansible.pdf)
