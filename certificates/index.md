@@ -71,6 +71,11 @@ Soon I intend to categorize them and describe a little of what I was able to lea
 - (In progress) Prepare for the AWS Certified Solutions Architect - Associate Exam (SAA-C02) (Learning Path):
     - [Exam Tips: AWS Certified Solutions Architect - Associate (SAA-C02)](./Exam%20Tips:%20AWS%20Certified%20Solutions%20Architect%20-%20Associate%20(SAA-C02).pdf)
     - [AWS Certified Solutions Architect - Associate (SAA-C02): 1 Cloud Services Overview](./AWS%20Certified%20Solutions%20Architect%20-%20Associate%20(SAA-C02):%201%20Cloud%20Services%20Overview.pdf)
+    - [AWS Certified Solutions Architect - Associate (SAA-C02): 2 Storage Design](./AWS%20Certified%20Solutions%20Architect%20-%20Associate%20%28SAA-C02%29%3A%202%20Storage%20Design.pdf)
+    - [AWS Certified Solutions Architect - Associate (SAA-C02): 3 Virtual Private Cloud](./AWS%20Certified%20Solutions%20Architect%20-%20Associate%20%28SAA-C02%29%3A%203%20Virtual%20Private%20Cloud.pdf)
+    - [AWS Certified Solutions Architect - Associate (SAA-C02): 4 Compute Services](./AWS%20Certified%20Solutions%20Architect%20-%20Associate%20%28SAA-C02%29%3A%204%20Compute%20Services.pdf)
+    - [AWS Certified Solutions Architect - Associate (SAA-C02): 5 Identity and Access Management](./AWS%20Certified%20Solutions%20Architect%20-%20Associate%20%28SAA-C02%29%3A%205%20Identity%20and%20Access%20Management.pdf)
+    - [AWS Certified Solutions Architect - Associate (SAA-C02): 6 Auto Scaling and Virtual Network Services](./AWS%20Certified%20Solutions%20Architect%20-%20Associate%20%28SAA-C02%29%3A%206%20Auto%20Scaling%20and%20Virtual%20Network%20Services.pdf)
 
 - [Python GUI Development with Tkinter](./Python%20GUI%20Development%20with%20Tkinter.pdf)
 
