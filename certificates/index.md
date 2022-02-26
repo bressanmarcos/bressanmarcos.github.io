@@ -5,6 +5,8 @@ Hello, visitor!
 Below you will find a non-exhaustive list of some of my certifications. Of course, these certificates do not define the degree of knowledge or experience I have with each of the tools, but it shows a bit of my commitment to keeping myself updated and active, always trying to learn new things every day!
 Soon I intend to categorize them and describe a little of what I was able to learn in each minute of learning.
 
+- AWS Certifications:
+    - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/68eabb60-0ce5-4f08-92c9-31d3250cfc15)
 
 - [Advanced Linux The Linux Kernel](./Advanced%20Linux%20The%20Linux%20Kernel.pdf)
 
