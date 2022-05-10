@@ -38,6 +38,8 @@ Soon I intend to categorize them and describe a little of what I was able to lea
 
 - [Flask Essential Training](./Flask%20Essential%20Training.pdf)
 
+- [Go Essential Training](./Go%20Essential%20Training.pdf)
+
 - [Kubernetes: Native Tools](./Kubernetes%20Native%20Tools.pdf)
 
 - [Kubernetes Microservices](./Kubernetes%20Microservices.pdf)
