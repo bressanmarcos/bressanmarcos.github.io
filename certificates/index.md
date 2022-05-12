@@ -72,8 +72,8 @@ Soon I intend to categorize them and describe a little of what I was able to lea
     - [Introduction to AWS for NonEngineers 3 Core Services](./Introduction%20to%20AWS%20for%20NonEngineers%203%20Core%20Services.pdf)
     - [Introduction to AWS for NonEngineers 4 Billing and Pricing](./Introduction%20to%20AWS%20for%20NonEngineers%204%20Billing%20and%20Pricing.pdf)
 
-- (In progress) Prepare for the AWS Certified Solutions Architect - Associate Exam (SAA-C02) (Learning Path):
-    - [Exam Tips: AWS Certified Solutions Architect - Associate (SAA-C02)](./Exam%20Tips:%20AWS%20Certified%20Solutions%20Architect%20-%20Associate%20(SAA-C02).pdf)
+- [Prepare for the AWS Certified Solutions Architect - Associate Exam (SAA-C02)](./AWS%20Certified%20Solutions%20Architect%20-%20Associate%20(SAA-C02):%20Prepare%20for%20the%20Exam.pdf) (Learning Path):
+    - [Exam Tips: AWS Certified Solutions Architect - Associate (SAA-C02)](./AWS%20Certified%20Solutions%20Architect%20-%20Associate%20(SAA-C02):%20Exam%20Tips.pdf)
     - [AWS Certified Solutions Architect - Associate (SAA-C02): 1 Cloud Services Overview](./AWS%20Certified%20Solutions%20Architect%20-%20Associate%20(SAA-C02):%201%20Cloud%20Services%20Overview.pdf)
     - [AWS Certified Solutions Architect - Associate (SAA-C02): 2 Storage Design](./AWS%20Certified%20Solutions%20Architect%20-%20Associate%20%28SAA-C02%29%3A%202%20Storage%20Design.pdf)
     - [AWS Certified Solutions Architect - Associate (SAA-C02): 3 Virtual Private Cloud](./AWS%20Certified%20Solutions%20Architect%20-%20Associate%20%28SAA-C02%29%3A%203%20Virtual%20Private%20Cloud.pdf)
@@ -81,6 +81,9 @@ Soon I intend to categorize them and describe a little of what I was able to lea
     - [AWS Certified Solutions Architect - Associate (SAA-C02): 5 Identity and Access Management](./AWS%20Certified%20Solutions%20Architect%20-%20Associate%20%28SAA-C02%29%3A%205%20Identity%20and%20Access%20Management.pdf)
     - [AWS Certified Solutions Architect - Associate (SAA-C02): 6 Auto Scaling and Virtual Network Services](./AWS%20Certified%20Solutions%20Architect%20-%20Associate%20%28SAA-C02%29%3A%206%20Auto%20Scaling%20and%20Virtual%20Network%20Services.pdf)
     - [AWS Certified Solutions Architect - Associate (SAA-C02): 7 Application Deployment](./AWS%20Certified%20Solutions%20Architect%20-%20Associate%20(SAA-C02):%207%20Application%20Deployment.pdf)
+    - [AWS Certified Solutions Architect - Associate (SAA-C02): 8 Databases](./AWS%20Certified%20Solutions%20Architect%20-%20Associate%20(SAA-C02):%208%20Databases.pdf)
+    - [AWS Certified Solutions Architect - Associate (SAA-C02): 9 Services and Design Scenarios](./AWS%20Certified%20Solutions%20Architect%20-%20Associate%20(SAA-C02):%209%20Services%20and%20Design%20Scenarios.pdf)
+
 
 - [Python GUI Development with Tkinter](./Python%20GUI%20Development%20with%20Tkinter.pdf)
 
