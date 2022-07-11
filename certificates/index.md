@@ -7,6 +7,7 @@ Soon I intend to categorize them and describe a little of what I was able to lea
 
 - AWS Certifications:
     - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/68eabb60-0ce5-4f08-92c9-31d3250cfc15)
+    - [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/c8798fa9-19e8-41a7-94e6-b0c3f9a4966a)
 
 - [Advanced Linux The Linux Kernel](./Advanced%20Linux%20The%20Linux%20Kernel.pdf)
 
