@@ -10,6 +10,7 @@ Soon I intend to categorize them and describe a little of what I was able to lea
 
 ## Project Management:
 
+- [The Ultimate Product Owner Certification Training](./The%20Ultimate%20Product%20Owner%20Certification%20Training.pdf)
 - [The Ultimate Agile Scrum Master Certification Training](./The%20Ultimate%20Agile%20Scrum%20Master%20Certification%20Training.pdf)
 - Strategic Thinking (Double certificate):
     - [Project Management Institute](./Strategic%20Thinking.pdf)
