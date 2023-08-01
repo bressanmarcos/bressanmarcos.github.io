@@ -80,7 +80,8 @@ Soon I intend to categorize them and describe a little of what I was able to lea
     - [National Association of State Boards of Accountancy](./Power%20BI%20Data%20Methods%20_.pdf)
     - [Linkedin](./Power%20BI%20Data%20Methods.pdf)
 
-## Programming and Development:
+## Programming and Software Architecture:
+- [Software Architecture & Technology of Large-Scale Systems](./Software%20Architecture%20&%20Technology%20of%20Large-Scale%20Systems.pdf)
 - [Flask Essential Training](./Flask%20Essential%20Training.pdf)
 - [Go Essential Training](./Go%20Essential%20Training.pdf)
 - [Learning GraphQL](./Learning%20GraphQL.pdf)
