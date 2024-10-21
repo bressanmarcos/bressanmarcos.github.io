@@ -5,23 +5,35 @@ Hello, visitor!
 Below you will find a non-exhaustive list of some of my certifications. Of course, these certificates do not define the degree of knowledge or experience I have with each of the tools, but it shows a bit of my commitment to keeping myself updated and active, always trying to learn new things every day!
 Soon I intend to categorize them and describe a little of what I was able to learn in each minute of learning.
 
-## Certification Badges
-- [Credly Profile](https://www.credly.com/users/marcos-horacio-borges-bressan/badges)
 
-## Project Management:
+## Official Certifications
+- [My Credly Profile](https://www.credly.com/users/marcos-horacio-borges-bressan/badges)
 
-- [Scrum Foundation Professional Certificate](./Scrum%20Foundation%20Professional%20Certificate.pdf)
+- [Scrum Foundation Professional Certificate](./Scrum%20Foundation%20Professional%20Certificate.pdf) (see [badge](https://www.credly.com/badges/a569e52c-ace3-4049-b6f2-84cb954330b8))
+
+- [AWS Certified Cloud Practitioner](./AWS%20Certified%20Cloud%20Practitioner%20certificate.pdf) (see [badge](https://www.credly.com/badges/68eabb60-0ce5-4f08-92c9-31d3250cfc15))
+- [AWS Certified Solutions Architect – Associate](./AWS%20Certified%20Solutions%20Architect%20-%20Associate%20certificate.pdf) (see [badge](https://www.credly.com/badges/c8798fa9-19e8-41a7-94e6-b0c3f9a4966a))
+- [AWS Certified Solutions Architect – Professional](./AWS%20Certified%20Solutions%20Architect%20-%20Professional%20certificate.pdf) (see [badge](https://www.credly.com/badges/e6395fd3-d116-48ba-932c-39b7daf8a71e))
+- [AWS Certified DevOps Engineer – Professional](./AWS%20Certified%20DevOps%20Engineer%20-%20Professional%20certificate.pdf) (see [badge](https://www.credly.com/badges/bd64e976-8279-49b1-837e-b36796a7eb11))
+- [AWS Certified Security - Specialty](./AWS%20Certified%20Security%20-%20Specialty%20certificate.pdf) (see [badge](https://www.credly.com/badges/f06f345c-e2a4-4f7c-b0f7-103d53a13712))
+
+- [CKA: Certified Kubernetes Administrator](https://www.credly.com/badges/2d33f204-e59c-4215-beec-cd953b8b1941)
+- [HashiCorp Certified: Terraform Associate (003)](https://www.credly.com/badges/4f449af7-35ca-4b35-acca-e8dc1dca1ca7)
+
+- [Astronomer Certification for Apache Airflow Fundamentals](https://www.credly.com/badges/10080cfc-03ce-45c2-acfd-863b68caed8a0)
+- [Astronomer Certification DAG Authoring for Apache Airflow](https://www.credly.com/badges/cdb5f28d-fde7-4602-8b08-bda30f07c4e4)
+
+# Courses
+
+## Project Management
+
 - [The Ultimate Product Owner Certification Training](./The%20Ultimate%20Product%20Owner%20Certification%20Training.pdf)
 - [The Ultimate Agile Scrum Master Certification Training](./The%20Ultimate%20Agile%20Scrum%20Master%20Certification%20Training.pdf)
 - Strategic Thinking (Double certificate):
     - [Project Management Institute](./Strategic%20Thinking.pdf)
     - [Linkedin](./Strategic%20Thinking%20_.pdf)
 
-## Cloud:
-- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/68eabb60-0ce5-4f08-92c9-31d3250cfc15)
-- [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/c8798fa9-19e8-41a7-94e6-b0c3f9a4966a)
-- [AWS Certified Solutions Architect – Professional](https://www.credly.com/badges/e6395fd3-d116-48ba-932c-39b7daf8a71e)
-- [AWS Certified DevOps Engineer – Professional](https://www.credly.com/badges/bd64e976-8279-49b1-837e-b36796a7eb11)
+## Cloud
 - [Learning Amazon Web Services (AWS) for Developers](./Learning%20Amazon%20Web%20Services%20AWS%20for%20Developers.pdf)
 - [Prepare for the AWS Certified Solutions Architect - Associate Exam (SAA-C02)](./AWS%20Certified%20Solutions%20Architect%20-%20Associate%20(SAA-C02):%20Prepare%20for%20the%20Exam.pdf) (Learning Path):
     - [Exam Tips: AWS Certified Solutions Architect - Associate (SAA-C02)](./AWS%20Certified%20Solutions%20Architect%20-%20Associate%20(SAA-C02):%20Exam%20Tips.pdf)
@@ -40,8 +52,7 @@ Soon I intend to categorize them and describe a little of what I was able to lea
     - [Introduction to AWS for NonEngineers 3 Core Services](./Introduction%20to%20AWS%20for%20NonEngineers%203%20Core%20Services.pdf)
     - [Introduction to AWS for NonEngineers 4 Billing and Pricing](./Introduction%20to%20AWS%20for%20NonEngineers%204%20Billing%20and%20Pricing.pdf)
 
-## DevOps:
-- [CKA: Certified Kubernetes Administrator](https://www.credly.com/badges/2d33f204-e59c-4215-beec-cd953b8b1941)
+## DevOps
 - [Certified Kubernetes Administrator with Practice Tests](./Certified%20Kubernetes%20Administrator%20with%20Practice%20Tests.pdf)
 - [Kubernetes: Native Tools](./Kubernetes%20Native%20Tools.pdf)
 - [Kubernetes Microservices](./Kubernetes%20Microservices.pdf)
@@ -62,7 +73,7 @@ Soon I intend to categorize them and describe a little of what I was able to lea
 - [Learning Terraform](./Learning%20Terraform.pdf)
 - [Learning Ansible](./Learning%20Ansible.pdf)
 
-## Data Engineering:
+## Data Engineering
 - [Become a Data Engineer Mastering the Concepts](./Become%20a%20Data%20Engineer%20Mastering%20the%20Concepts.pdf) (Learning Path):
     - [Advanced NoSQL for Data Science](./Advanced%20NoSQL%20for%20Data%20Science.pdf)
     - [Apache Spark Essential Training: Big Data Engineering](./Apache%20Spark%20Essential%20Training%20Big%20Data%20Engineering.pdf)
@@ -81,7 +92,7 @@ Soon I intend to categorize them and describe a little of what I was able to lea
     - [National Association of State Boards of Accountancy](./Power%20BI%20Data%20Methods%20_.pdf)
     - [Linkedin](./Power%20BI%20Data%20Methods.pdf)
 
-## Programming and Software Architecture:
+## Programming and Software Architecture
 - [Software Architecture & Technology of Large-Scale Systems](./Software%20Architecture%20&%20Technology%20of%20Large-Scale%20Systems.pdf)
 - [Flask Essential Training](./Flask%20Essential%20Training.pdf)
 - [Go Essential Training](./Go%20Essential%20Training.pdf)
@@ -90,8 +101,11 @@ Soon I intend to categorize them and describe a little of what I was able to lea
 - [Scala Essential Training for Data Science](./Scala%20Essential%20Training%20for%20Data%20Science.pdf)
 - [PHP Facebook Messenger Bot](./PHP%20Facebook%20Messenger%20Bot.pdf)
 
-## System Administration:
+## System Administration
 - [Advanced Linux The Linux Kernel](./Advanced%20Linux%20The%20Linux%20Kernel.pdf)
 - [Linux: Multitasking at the Command Line](./Linux%20Multitasking%20at%20the%20command%20line.pdf)
 - [Managing DNS Essential Training](./Managing%20DNS%20Essential%20Training.pdf)
 - [SSL Certificates for Web Developers](./SSL%20Certificates%20for%20Web%20Developers.pdf)
+
+## Cybersecurity
+- [Official ISC2 CC Online Self-Paced Training - 1M](./Official%20ISC2%20CC%20Online%20Self-Paced%20Training%20-%201M.pdf)
