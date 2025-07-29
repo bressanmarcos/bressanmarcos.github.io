@@ -1,19 +1,43 @@
+---
+layout: default
+---
+
 # Marcos **Bressan**
 
----
-I am a Software Engineer and DevOps specialist with a passion for solving complex problems through scalable, reliable technology. With over five years of experience in Python development, cloud infrastructure, and full-stack solutions, I’ve built systems that optimize performance, reduce costs, and support the growth of businesses. From cloud-native architectures to automated CI/CD pipelines, I focus on creating solutions that are both efficient and secure.
-
-I hold a double degree in Electrical Engineering from the Federal University of Ceará ([UFC](http://www.ufc.br)) in Brazil and the École [CentraleSupélec](https://www.centralesupelec.fr) in France. My diverse academic background and international experience in France have shaped my expertise in data systems, cloud computing, and software engineering. Throughout my career, I’ve led projects that modernized legacy systems, enhanced performance using Kubernetes and AWS, and implemented robust data validation tools like Deirokay.
-
-Whether I’m working on big data projects, optimizing cloud environments, or collaborating with cross-functional teams, I am driven by the opportunity to make a meaningful impact.
-
-This site is under development, but feel free to explore my work on [LinkedIn](https://linkedin.com/in/bressanmarcos) or [GitHub](https://github.com/bressanmarcos)!
-
+This is my personal website where I share my journey as a **Software Engineer** and technology enthusiast. Here you'll find my professional background, technical blog posts, and insights about **Programming**, **DevOps**, **Cloud Technologies**, and **Distributed Systems**.
 
 ---
-## Projects
-[Click here](pages/projects) to see a list of projects.
+
+# About Me
+
+Software Engineer with a background in Electrical Engineering, holding a double degree from the Federal University of Ceará (Brazil) and École CentraleSupélec (France). 
+
+Passionate about Machine Learning, Distributed Computing, and Smart Grid technologies. Currently focused on cloud infrastructure, DevOps practices, and building scalable software solutions.
 
 ---
-## Certificates
-[Click here](pages/certificates) to see a list of certificates.
+
+## Recent Blog Posts
+
+{% assign recent_posts = site.posts | slice: 0, 3 %}
+{% if recent_posts.size > 0 %}
+{% for post in recent_posts %}
+### [{{ post.title }}]({{ post.url | relative_url }})
+**{{ post.date | date: "%B %d, %Y" }}**{% if post.categories.size > 0 %} • {% for category in post.categories %}{{ category | capitalize }}{% unless forloop.last %}, {% endunless %}{% endfor %}{% endif %}
+
+{% if post.excerpt %}{{ post.excerpt | strip_html | truncate: 120 }}{% endif %}
+
+[Read More →]({{ post.url | relative_url }})
+
+---
+{% endfor %}
+
+**[View All Blog Posts →](/blog)**
+{% else %}
+**🚀 New Blog Coming Soon!**
+
+I'm excited to start sharing insights about technology, learning experiences, and tutorials. Check back soon for new content!
+
+**[Visit Blog Section →](/blog)**
+{% endif %}
+
+---

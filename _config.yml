@@ -7,3 +7,37 @@ description: >
   
 theme: jekyll-theme-minimal
 google_analytics: UA-168058669-2 # your Google Analytics tracking ID here
+
+# Blog settings
+author: Marcos Bressan
+email: bressan@dee.ufc.br
+blog_description: "Technology insights, learning notes, and tutorials from a Software/DevOps Engineer passionate about Programming and Cloud Technologies."
+
+# Social links
+github_username: bressanmarcos
+linkedin_username: bressanmarcos
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:year/:month/:day/:title/
+
+# Blog pagination
+paginate: 5
+paginate_path: "/blog/page:num/"
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/

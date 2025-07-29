@@ -1,0 +1,299 @@
+---
+layout: default
+---
+
+<div class="blog-post-container">
+  <div class="post-navigation-top">
+    <a href="/blog" class="back-to-blog">
+      ← Back to Blog
+    </a>
+    <div class="post-meta-info">
+      {{ page.date | date: "%B %d, %Y" }}
+      {% if page.categories.size > 0 %}
+        • {% for category in page.categories %}{{ category | capitalize }}{% unless forloop.last %}, {% endunless %}{% endfor %}
+      {% endif %}
+    </div>
+  </div>
+
+  <h1 class="post-title">{{ page.title }}</h1>
+
+  {% if page.tags.size > 0 %}
+    <div class="post-tags">
+      <strong>Tags:</strong> {% for tag in page.tags %}<span class="tag">{{ tag }}</span>{% unless forloop.last %}, {% endunless %}{% endfor %}
+    </div>
+  {% endif %}
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+  <div class="post-footer">
+    <div class="post-navigation-bottom">
+      {% if page.previous.url %}
+        <div class="nav-item">
+          <strong>← Previous:</strong><br>
+          <a href="{{ page.previous.url | relative_url }}">{{ page.previous.title }}</a>
+        </div>
+      {% endif %}
+      
+      {% if page.next.url %}
+        <div class="nav-item next">
+          <strong>Next →</strong><br>
+          <a href="{{ page.next.url | relative_url }}">{{ page.next.title }}</a>
+        </div>
+      {% endif %}
+    </div>
+    
+    <div class="post-sharing">
+      <h3>Share this post</h3>
+      <div class="share-links">
+        <a href="https://www.linkedin.com/sharing/share-offsite/?url={{ page.url | absolute_url }}" target="_blank" rel="noopener">Share on LinkedIn</a>
+        <a href="https://twitter.com/intent/tweet?url={{ page.url | absolute_url }}&text={{ page.title | uri_escape }}" target="_blank" rel="noopener">Tweet this</a>
+        <a href="mailto:?subject={{ page.title | uri_escape }}&body={{ page.url | absolute_url }}">Email to a friend</a>
+      </div>
+    </div>
+
+    <div class="author-section">
+      <h3>About the Author</h3>
+      <p>Software Engineer passionate about Machine Learning, Distributed Computing, and sharing knowledge through technology. Always learning, always building.</p>
+      <div class="author-links">
+        <a href="https://www.linkedin.com/in/bressanmarcos/" target="_blank" rel="noopener">Connect on LinkedIn</a>
+        <a href="https://github.com/bressanmarcos" target="_blank" rel="noopener">Follow on GitHub</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<style>
+.blog-post-container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.post-navigation-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 2rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid var(--border-color);
+  font-size: 0.9rem;
+}
+
+.back-to-blog {
+  color: var(--text-accent);
+  text-decoration: none;
+  font-weight: 500;
+  padding: 0.5rem 1rem;
+  border: 1px solid var(--border-color);
+  border-radius: 6px;
+  transition: all 0.3s ease;
+}
+
+.back-to-blog:hover {
+  background: var(--text-accent);
+  color: white;
+  transform: translateX(-4px);
+}
+
+.post-meta-info {
+  color: var(--text-secondary);
+}
+
+.post-title {
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.2;
+  margin-bottom: 1rem;
+  background: var(--gradient);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-align: left;
+}
+
+.post-tags {
+  margin-bottom: 2rem;
+  padding: 1rem;
+  background: var(--bg-secondary);
+  border-radius: 8px;
+  font-size: 0.9rem;
+}
+
+.post-tags strong {
+  color: var(--text-primary);
+  margin-right: 0.5rem;
+}
+
+.post-tags .tag {
+  background: var(--text-accent);
+  color: white;
+  padding: 0.25rem 0.5rem;
+  border-radius: 4px;
+  font-size: 0.8rem;
+  font-weight: 500;
+  margin-right: 0.5rem;
+}
+
+.post-content {
+  font-size: 1.125rem;
+  line-height: 1.7;
+  margin-bottom: 3rem;
+}
+
+/* Override the default h1 styling for content that might duplicate the title */
+.post-content h1:first-child {
+  display: none;
+}
+
+.post-footer {
+  border-top: 1px solid var(--border-color);
+  padding-top: 2rem;
+}
+
+.post-navigation-bottom {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 2rem;
+  padding: 1.5rem;
+  background: var(--bg-secondary);
+  border-radius: 8px;
+  gap: 2rem;
+}
+
+.nav-item {
+  flex: 1;
+}
+
+.nav-item.next {
+  text-align: right;
+}
+
+.nav-item strong {
+  color: var(--text-accent);
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+.nav-item a {
+  color: var(--text-primary);
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.nav-item a:hover {
+  color: var(--text-accent);
+}
+
+.post-sharing {
+  margin-bottom: 2rem;
+  padding: 1.5rem;
+  background: var(--bg-secondary);
+  border-radius: 8px;
+}
+
+.post-sharing h3 {
+  color: var(--text-primary);
+  margin-bottom: 1rem;
+  font-size: 1.125rem;
+}
+
+.share-links {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.share-links a {
+  color: var(--text-accent);
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+  border: 1px solid var(--border-color);
+  border-radius: 6px;
+  font-size: 0.9rem;
+  transition: all 0.3s ease;
+}
+
+.share-links a:hover {
+  background: var(--text-accent);
+  color: white;
+}
+
+.author-section {
+  padding: 2rem;
+  background: var(--gradient);
+  color: white;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.author-section h3 {
+  color: white;
+  margin-bottom: 1rem;
+  font-size: 1.25rem;
+}
+
+.author-section p {
+  margin-bottom: 1.5rem;
+  opacity: 0.9;
+  line-height: 1.6;
+}
+
+.author-links {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.author-section a {
+  color: rgba(255, 255, 255, 0.9);
+  text-decoration: none;
+  font-weight: 500;
+  padding: 0.5rem 1rem;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  border-radius: 6px;
+  transition: all 0.3s ease;
+}
+
+.author-section a:hover {
+  color: white;
+  background: rgba(255, 255, 255, 0.1);
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .post-title {
+    font-size: 2rem;
+  }
+  
+  .post-navigation-top {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1rem;
+  }
+  
+  .post-navigation-bottom {
+    flex-direction: column;
+    gap: 1rem;
+  }
+  
+  .nav-item.next {
+    text-align: left;
+  }
+  
+  .share-links {
+    flex-direction: column;
+    align-items: stretch;
+  }
+  
+  .author-links {
+    flex-direction: column;
+    align-items: stretch;
+  }
+  
+  .post-content {
+    font-size: 1rem;
+  }
+}
+</style> 
