@@ -53,6 +53,21 @@ layout: default
       </div>
     </div>
 
+    <!-- Comments Section -->
+    <div class="comments-section">
+      <h3>Comments</h3>
+      <p class="comments-note">
+        Comments are powered by GitHub Issues. If you have a GitHub account, you can leave a comment below!
+      </p>
+      <script src="https://utteranc.es/client.js"
+              repo="bressanmarcos/bressanmarcos.github.io"
+              issue-term="pathname"
+              theme="github-light"
+              crossorigin="anonymous"
+              async>
+      </script>
+    </div>
+
     <div class="author-section">
       <h3>About the Author</h3>
       <p>Software Engineer passionate about Machine Learning, Distributed Computing, and sharing knowledge through technology. Always learning, always building.</p>
@@ -217,6 +232,27 @@ layout: default
 .share-links a:hover {
   background: var(--text-accent);
   color: white;
+}
+
+/* Comments Section Styles */
+.comments-section {
+  margin-bottom: 2rem;
+  padding: 1.5rem;
+  background: var(--bg-secondary);
+  border-radius: 8px;
+}
+
+.comments-section h3 {
+  color: var(--text-primary);
+  margin-bottom: 1rem;
+  font-size: 1.125rem;
+}
+
+.comments-note {
+  color: var(--text-secondary);
+  font-size: 0.9rem;
+  margin-bottom: 1rem;
+  font-style: italic;
 }
 
 .author-section {
