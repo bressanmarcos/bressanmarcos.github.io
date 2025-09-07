@@ -522,10 +522,12 @@
           html.setAttribute('data-theme', 'dark');
           icon.className = 'fas fa-sun';
           localStorage.setItem('theme', 'dark');
+          updateCommentTheme('dark');
         } else {
           html.setAttribute('data-theme', 'light');
           icon.className = 'fas fa-moon';
           localStorage.setItem('theme', 'light');
+          updateCommentTheme('light');
         }
       }
 
@@ -536,7 +538,18 @@
         
         document.documentElement.setAttribute('data-theme', savedTheme);
         icon.className = savedTheme === 'dark' ? 'fas fa-sun' : 'fas fa-moon';
+        
+        // Set initial comment theme
+        updateCommentTheme(savedTheme);
       });
+
+      // Update comment theme function
+      function updateCommentTheme(theme) {
+        const script = document.querySelector('#utterances-container script');
+        if (script) {
+          script.setAttribute('theme', theme === 'dark' ? 'github-dark' : 'github-light');
+        }
+      }
 
       // Smooth scrolling for anchor links
       document.querySelectorAll('a[href^="#"]').forEach(anchor => {
