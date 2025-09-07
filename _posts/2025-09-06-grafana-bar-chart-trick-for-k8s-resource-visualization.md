@@ -26,7 +26,7 @@ I implemented two different visualizations that might be useful for you:
 
 The stacked approach provides the clearest visual comparison by showing both the actual usage and the remaining capacity in a single bar.
 
-![Stacked Bar Chart for CPU Peak vs Request](/images/2025-09-06-grafana-bar-chart-trick-for-k8s-resource-visualization.png)
+<img width="100%" src="/images/2025-09-06-grafana-bar-chart-trick-for-k8s-resource-visualization.png" alt="Stacked Bar Chart for CPU Peak vs Request" />
 
 This visualization shows:
 - **Green segments**: Peak CPU usage for each pod
@@ -74,7 +74,7 @@ In most recent implementations, I even added a third query to also show the curr
 
 The overlaid approach shows absolute values with different metrics overlaid on the same chart.
 
-![Overlaid Bar Chart with Absolute Values](/images/2025-09-06-grafana-bar-chart-trick-for-k8s-resource-visualization-2.png)
+<img width="100%" src="/images/2025-09-06-grafana-bar-chart-trick-for-k8s-resource-visualization-2.png" alt="Overlaid Bar Chart with Absolute Values" />
 
 This shows:
 - **Green bars**: Current CPU usage (Last Value)
@@ -89,7 +89,7 @@ Since we use absolute values, we don't need to subtract the peak usage from the 
 
 **Image 3: Grafana Panel Configuration**
 
-![Grafana Panel Configuration](/images/2025-09-06-grafana-bar-chart-trick-for-k8s-resource-visualization-3.png)
+<img width="100%" src="/images/2025-09-06-grafana-bar-chart-trick-for-k8s-resource-visualization-3.png" alt="Grafana Panel Configuration" />
 
 Key configuration settings:
 - **Panel Type**: Bar chart

@@ -26,7 +26,7 @@ Without loss of generality, all descriptions below will be given from the perspe
 
 ## Internal Message Transformations
 
-<img src="/images/2028-08-30-message-flow-kafka-connect.png" alt="Kafka Connect Internal Format" />
+<img width="100%" src="/images/2025-08-30-message-flow-kafka-connect.png" alt="Kafka Connect Internal Format" />
 <!-- https://excalidraw.com/#json=gnJBcmaAJcpPDj2jbWkOQ,AGKmZzvZPy0vdncEBeAbKg -->
 
 ### 1. Kafka Record (from the topic)
